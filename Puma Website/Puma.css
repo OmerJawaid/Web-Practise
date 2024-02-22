@@ -72,6 +72,10 @@
     border-radius: 20%;
 }
 
+.dropdownWomen ul {
+    display: none;
+}
+
 /*Navbar Ends*/
 
 /*IMAGE 1*/
